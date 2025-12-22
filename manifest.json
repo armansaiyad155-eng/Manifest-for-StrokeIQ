@@ -1,0 +1,41 @@
+{
+  "background_color": "#0a0a0a",
+  "description": "StrokeIQ uses AI to detect early stroke symptoms through the BEFAST technique. Get instant analysis and emergency guidance when every second counts.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "strokeiq.lovable",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "strokeiq.lovable",
+  "start_url": "/",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b4c12d60-36e1-4817-98f4-a0d59cd4d491/id-preview-826d38a9--1c720b79-ee37-4262-80ef-7d492159b888.lovable.app-1765036197739.png",
+      "type": "image/png",
+      "sizes": "1920x1080",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1920,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://strokeiq.lovable.app/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "73x74",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 73,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "StrokeIQ"
+}
